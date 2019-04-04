@@ -89,4 +89,22 @@ h1 {
 
 .secondWrap {
     background-color: #00bcd4;
+    width: 80%;
+    margin: auto;
+}
+
+.flex-item {
+    background-color:#0d47a1;
+    width: 30%;
+    margin: 1em;
+    text-align: center;
+}
+
+.flex-item p {
+    text-align: left;
+}
+
+.section-image {
+    margin: 0 auto;
+    width: 100%
 }
